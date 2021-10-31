@@ -1,3 +1,6 @@
+#EXTM3U
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Guerra dos Sexos (Globoplay) S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qYG6TH77rJ6JuqALF01rh0CJGGz.jpg" group-title="Novela - Guerra dos Sexos",Guerra dos Sexos (Globoplay) S01 E01
 http://gotecnologia.best:80/series/GoBrVzPlay/VzPlayGoBr/106732.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Guerra dos Sexos (Globoplay) S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qYG6TH77rJ6JuqALF01rh0CJGGz.jpg" group-title="Novela - Guerra dos Sexos",Guerra dos Sexos (Globoplay) S01 E02
